@@ -1,4 +1,4 @@
-# Simple Diary Manager
+# Chapter 4 Challenge: Simple Diary Manager
 
 A lightweight diary management application built with JavaFX.
 

@@ -6,7 +6,7 @@ public class BouncingTextApplet extends Applet implements Runnable {
 
     private Thread thread;
     private int x = 0; // Starting x position
-    private String text = "Bilal Muktar"; // Your name
+    private String text = "Java Applet"; // Generic text
     private boolean running = false;
 
     // Called once when the applet is initialized

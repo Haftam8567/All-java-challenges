@@ -1,4 +1,4 @@
-# EcoLife Solutions Weather Widget
+# Chapter 3 Challenge: EcoLife Solutions Weather Widget
 
 ## Part 1: Brand Analysis & Design
 
@@ -35,4 +35,3 @@ External CSS is crucial because it allows for a clean separation of concerns. If
 
 ### 3. Integration Challenge
 The most challenging part was ensuring the "Eco" specific features (like gardening tips) felt integrated into the weather display without cluttering the interface. Balancing the data-rich requirements with the "Approachable" brand value required careful spacing and font sizing.
-

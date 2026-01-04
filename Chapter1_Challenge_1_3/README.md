@@ -37,28 +37,4 @@ This Java program simulates a simple **text-based dungeon adventure**. The playe
 javac Chapter1_Challenge_1_3.java
 
 java Chapter1_Challenge_1_3
-
-
-Entering room 1...
-You found a healing potion! Health is now 100.
-Current health: 100
-
-Entering room 2...
-A monster appears! Guess a number (1-5) to defeat it: 3
-Wrong! Try again: 2
-Wrong! Try again: 5
-You defeated the monster!
-
-Entering room 3...
-A trap sprung! Health is now 80.
-Current health: 80
-
-Entering room 4...
-You found a healing potion! Health is now 95.
-Current health: 95
-
-Entering room 5...
-A monster appears! Guess a number (1-5) to defeat it: 1
-You defeated the monster!
-
-You cleared the dungeon! Victorious with 95 health!
+```

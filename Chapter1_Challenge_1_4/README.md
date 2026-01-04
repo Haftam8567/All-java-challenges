@@ -32,10 +32,14 @@ The program uses **exception handling** to ensure it does not crash under any ci
 
 1. **Create a file named `config.txt`** in the same directory as your Java program.  
    Example content:
-
+   ```
+   2
+   C:/Windows/System32/drivers/etc/hosts
+   ```
 
 2. **Compile the program:**
 ```bash
 javac Chapter1_Challenge_1_4.java
 
 java Chapter1_Challenge_1_4
+```

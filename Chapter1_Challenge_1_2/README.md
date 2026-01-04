@@ -35,12 +35,4 @@ This challenge demonstrates **arrays, string manipulation, for & for-each loops,
 javac Chapter1_Challenge_1_2.java
 
 java Chapter1_Challenge_1_2
-
-
-Ticket               Digit Sum   Digit Average
------------------------------------------------
-12-34-56-78-90       45          4.50        
-33-44-11-66-22       30          3.00        
-01-02-03-04-05       15          1.50        
-
-The winning number with the highest average is: 12-34-56-78-90 with an average of 4.5
+```
